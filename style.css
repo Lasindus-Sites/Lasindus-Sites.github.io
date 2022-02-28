@@ -10,7 +10,7 @@ body {
     align-items: center;
     flex-direction: column;
     font-family: "Montserrat";
-    color: rgb(56,56,56);
+    color: #A2DCF0;
 }
 .wrapper {
     display: flex;
